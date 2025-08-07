@@ -53,6 +53,6 @@ Also, you can find more [free tools](https://www.detectordeia.org/herramientas-i
 We believe AI detection should be accessible to everyone and are constantly working to improve our models. We'd love to hear from you!
 
 - **Feedback:** If you have suggestions or have found a bug, please feel free to [contact](https://www.detectordeia.org/cont%C3%A1ctanos).
-- **Contribute:** While the core of the tool is proprietary, we welcome contributions to the documentation, guides, and any related open-source projects we may start in the future. Please see our `contributing.md` file for more details.
+- **Contribute:** While the core of the tool is proprietary, we welcome contributions to the documentation, guides, and any related open-source projects we may start in the future. Please see our [contributing](/contributing.md) file for more details.
 
 Your feedback helps us make the tool better for everyone. Thank you for being a part of our community!
