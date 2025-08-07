@@ -1,6 +1,6 @@
 # ❓ Frequently Asked Questions (FAQs)
 
-Welcome to our FAQ section\! If you have a question that isn't answered here, please feel free to **[open a new issue](/issues)**, and we'll do our best to help.
+Welcome to our FAQ section\! If you have a question that isn't answered here, please feel free to **[open a new issue](https://github.com/Detectordeia/Awesome-Free-AI-Text-Tools-Resources/issues)**, and we'll do our best to help.
 
 -----
 
