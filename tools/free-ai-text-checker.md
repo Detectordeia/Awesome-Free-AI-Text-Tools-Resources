@@ -49,6 +49,6 @@ Also, you can find more [free tools](https://www.aitextchecker.pro/ai-tools) on 
 We believe in making AI detection accessible to everyone and are constantly working to improve our models. We'd love to hear from you!
 
 * **Feedback:** If you have suggestions or find a bug, please feel free to [contact](https://www.aitextchecker.pro/contact).
-* **Contribute:** While our core tool is proprietary, we welcome contributions to our documentation, guides, and any related open-source projects we may launch. Please see our `contributing.md` file for more details.
+* **Contribute:** While our core tool is proprietary, we welcome contributions to our documentation, guides, and any related open-source projects we may launch. Please see our [contributing](/contributing.md) file for more details.
 
 Your feedback helps us make the tool better for everyone. Thank you for being a part of our community!
