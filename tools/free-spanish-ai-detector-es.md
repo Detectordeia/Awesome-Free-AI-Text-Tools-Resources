@@ -54,6 +54,6 @@ También, puedes encontrar más [herramientas gratuitas](https://www.detectordei
 Creemos que la detección de IA debe ser accesible para todos y trabajamos constantemente para mejorar nuestros modelos. ¡Nos encantaría saber tu opinión\!
 
   - **Comentarios:** Si tienes sugerencias o has encontrado un error, no dudes en [contactarnos](https://www.detectordeia.org/cont%C3%A1ctanos).
-  - **Contribuir:** Aunque el núcleo de la herramienta es propietario, damos la bienvenida a contribuciones a la documentación, guías y cualquier proyecto de código abierto relacionado que podamos iniciar en el futuro. Consulta nuestro archivo `contributing.md` para más detalles.
+  - **Contribuir:** Aunque el núcleo de la herramienta es propietario, damos la bienvenida a contribuciones a la documentación, guías y cualquier proyecto de código abierto relacionado que podamos iniciar en el futuro. Consulta nuestro archivo [contributing](/contributing.md) para más detalles.
 
 Tus comentarios nos ayudan a mejorar la herramienta para todos. ¡Gracias por ser parte de nuestra comunidad\!
