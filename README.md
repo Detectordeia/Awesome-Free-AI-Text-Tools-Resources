@@ -31,6 +31,7 @@ These are the tools developed by our team, designed to be powerful and completel
 
 * [**Free AI Text Checker**](tools/free-ai-text-checker.md) - An in-depth look at our flagship tool, highlighting its features and why it stands out.
 * [**Free Spanish AI Detector**](tools/free-spanish-ai-detector.md) - A dedicated tool to help Spanish-speaking creators verify their content.
+  * [Detector de IA y Humanizador Gratuito en Español](tools/free-spanish-ai-detector-es.md) - Spanish version.
 
 ---
 
